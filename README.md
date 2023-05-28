@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AbdullahNaseer01/AbdullahNaseer01/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/AbdullahNaseer01/AbdullahNaseer01/output/snake.svg" alt="Snake animation" /> -->
 
 ###
