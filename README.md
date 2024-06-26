@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a webDeveloper, from Faisalabad,Pakistan & working on MERN stack Technologies mostly</h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a web and Mobile Application Developer, from Faisalabad,Pakistan & work on React, React Native and related technologies mostly</h2>
 
 ###
 
