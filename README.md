@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a web and Mobile Application Developer, from Faisalabad,Pakistan & work on React, React Native and related technologies mostly</h2>
+<h2 align="left">Hi 👋! My name is Abdullah, and I'm a Mobile and Web Application Developer from Faisalabad, Pakistan. I specialize in React Native for building mobile applications and React for web development, along with related modern technologies.</h2>
 
 ###
 
